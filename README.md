@@ -21,7 +21,7 @@ gem 'leviathan-rails', '~> 0.0.5.alpha'
 </pre>
 
 <h2>Setup</h2>
-<p>In config/environment.rb:/p>
+<p>In config/environment.rb:</p>
 <pre>
 Leviathan::initialize_subscribers({host: '127.0.0.1', port: 8080})
 </pre>
