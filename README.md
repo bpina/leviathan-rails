@@ -3,6 +3,12 @@ leviathan-rails
 
 SocketPusher for ActiveSuport::Notifications
 
+<p>
+leviathan-rails requires connection to a UDP socket listening on some port. 
+It will basically forward rails instrumentation data wherever you point it. 
+This gem is intended for use with <a href="https://github.com/bpina/leviathan">Leviathan<a>
+</p>
+
 <h2> Installation </h2>
 <p>With gem install:</p>
 <pre>
