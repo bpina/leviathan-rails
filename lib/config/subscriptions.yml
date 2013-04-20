@@ -1,0 +1,6 @@
+---
+subscriptions:
+- hello_world
+- render_template.action_view
+- render_partial.action_view
+- sql.active_record
