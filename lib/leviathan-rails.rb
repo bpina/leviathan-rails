@@ -1,7 +1,7 @@
 require 'socket'
+require 'yaml'
 require 'rubygems'
 require 'msgpack'
-require 'yaml'
 require 'active_support'
 
 APP_ROOT = File.dirname(__FILE__)

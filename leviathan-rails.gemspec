@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name        = 'leviathan-rails'
-  s.version     = '0.0.3.alpha'
+  s.version     = '0.0.4.alpha'
   s.summary     = 'Rails Monitoring Gem'
   s.description = 'Socket pusher for ActiveSupport::Notifications'
   s.authors     = ['Brian Pina']
